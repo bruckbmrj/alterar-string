@@ -15,3 +15,4 @@ const emailModificado = `${inicioPrefixo}${repeatString}@${emailSeparado[1]}`;
 console.log(emailModificado);
 let resultado = email.textContent = emailModificado;
 console.log(resultado);
+//comentário para subida github
